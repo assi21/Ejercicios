@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tu Nombre - Curriculum Vitae</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        header {
+            text-align: center;
+        }
+        h1, h2 {
+            color: #333;
+        }
+        section {
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Tu Nombre</h1>
+        <p>Curriculum Vitae</p>
+    </header>
+
+    <section>
+        <h2>Información de Contacto</h2>
+        <p>Dirección: Ciudad, País</p>
+        <p>Email: tu@email.com</p>
+        <p>Teléfono: +123456789</p>
+    </section>
+
+    <section>
+        <h2>Experiencia Laboral</h2>
+        <h3>Nombre del Trabajo - Empresa, Ciudad (Fecha de Inicio - Fecha de Finalización)</h3>
+        <p>Descripción de las responsabilidades y logros en este trabajo.</p>
+
+        <!-- Puedes agregar más experiencias laborales según sea necesario -->
+    </section>
+
+    <section>
+        <h2>Educación</h2>
+        <h3>Grado Académico - Institución, Ciudad (Fecha de Inicio - Fecha de Graduación)</h3>
+        <p>Descripción adicional sobre tu educación, logros académicos, etc.</p>
+
+        <!-- Puedes agregar más información educativa según sea necesario -->
+    </section>
+
+    <section>
+        <h2>Habilidades</h2>
+        <ul>
+            <li>Habilidad 1</li>
+            <li>Habilidad 2</li>
+            <li>Habilidad 3</li>
+            <!-- Agrega más habilidades según sea necesario -->
+        </ul>
+    </section>
+
+    <section>
+        <h2>Idiomas</h2>
+        <ul>
+            <li>Idioma 1 - Nivel Avanzado</li>
+            <li>Idioma 2 - Nivel Intermedio</li>
+            <!-- Agrega más idiomas según sea necesario -->
+        </ul>
+    </section>
+
+    <footer>
+        <p>Última actualización: [Fecha]</p>
+    </footer>
+</body>
+</html>
